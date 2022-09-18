@@ -19,4 +19,4 @@ A simple Justice landing page created using `HTML` and `CSS`. This Project is ho
 - How to create a navigation bar.
 - How to margins and Padding.
 
-## [Live Link]() of this Project
+## [Live Link](https://justice-uday.netlify.app/ "justice") of this Project
